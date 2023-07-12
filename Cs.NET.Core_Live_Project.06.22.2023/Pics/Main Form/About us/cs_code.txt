@@ -1,0 +1,24 @@
+ string? copy_wright_reader()
+        {
+            string? fn = "";
+            //--------------
+            try
+            {
+                System.Reflection.Assembly? asm;
+                asm = System.Reflection.Assembly.GetEntryAssembly();
+                //-----------------
+                if (asm != null)
+                {
+                    fn = asm.Location;
+                }
+                //---------------
+                var ver_Info = System.Diagnostics.FileVersionInfo.GetVersionInfo(fn);
+                //---------------
+                return ver_Info.LegalCopyright;
+            }
+            catch (Exception)
+            {
+               return "Unknown";
+            }
+
+        }

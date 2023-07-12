@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "BeeXLWXVni3T/73i/+TeQ+9QsOoD37FFgbVy8n9EYBxYuK5cv7jlXjA9DqNNetAIhxRDaNpedeW67jyH4z6aBg==",
+  "success": false,
+  "projectFilePath": "C:\\Csharp-winformSQL\\Cs.NET.Core_Live_Project.06.22.2023\\Cs Projects\\Secretariat_Soft_Sn\\Secretariat_Soft\\Secretariat_Soft.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "System.Data.SqlClient 패키지를 찾을 수 없습니다. 원본에 ID가 Microsoft Visual Studio Offline Packages인 패키지가 없습니다.",
+      "libraryId": "System.Data.SqlClient",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "NETCore.Encrypt 패키지를 찾을 수 없습니다. 원본에 ID가 Microsoft Visual Studio Offline Packages인 패키지가 없습니다.",
+      "libraryId": "NETCore.Encrypt",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}

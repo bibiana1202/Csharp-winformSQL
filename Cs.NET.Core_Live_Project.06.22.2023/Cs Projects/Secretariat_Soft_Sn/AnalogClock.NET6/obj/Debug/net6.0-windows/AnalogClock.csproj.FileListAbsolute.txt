@@ -1,0 +1,56 @@
+C:\Users\Rec User\Downloads\yaac_src (2)1\AnalogClock\bin\Debug\net6.0-windows\AnalogClock.deps.json
+C:\Users\Rec User\Downloads\yaac_src (2)1\AnalogClock\bin\Debug\net6.0-windows\AnalogClock.dll
+C:\Users\Rec User\Downloads\yaac_src (2)1\AnalogClock\bin\Debug\net6.0-windows\AnalogClock.pdb
+C:\Users\Rec User\Downloads\yaac_src (2)1\AnalogClock\obj\Debug\net6.0-windows\AnalogClock.csproj.AssemblyReference.cache
+C:\Users\Rec User\Downloads\yaac_src (2)1\AnalogClock\obj\Debug\net6.0-windows\AnalogClock.AnalogClock.resources
+C:\Users\Rec User\Downloads\yaac_src (2)1\AnalogClock\obj\Debug\net6.0-windows\AnalogClock.csproj.GenerateResource.cache
+C:\Users\Rec User\Downloads\yaac_src (2)1\AnalogClock\obj\Debug\net6.0-windows\AnalogClock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rec User\Downloads\yaac_src (2)1\AnalogClock\obj\Debug\net6.0-windows\AnalogClock.AssemblyInfoInputs.cache
+C:\Users\Rec User\Downloads\yaac_src (2)1\AnalogClock\obj\Debug\net6.0-windows\AnalogClock.AssemblyInfo.cs
+C:\Users\Rec User\Downloads\yaac_src (2)1\AnalogClock\obj\Debug\net6.0-windows\AnalogClock.csproj.CoreCompileInputs.cache
+C:\Users\Rec User\Downloads\yaac_src (2)1\AnalogClock\obj\Debug\net6.0-windows\AnalogClock.dll
+C:\Users\Rec User\Downloads\yaac_src (2)1\AnalogClock\obj\Debug\net6.0-windows\refint\AnalogClock.dll
+C:\Users\Rec User\Downloads\yaac_src (2)1\AnalogClock\obj\Debug\net6.0-windows\AnalogClock.pdb
+C:\Users\Rec User\Downloads\yaac_src (2)1\AnalogClock\obj\Debug\net6.0-windows\ref\AnalogClock.dll
+C:\Users\Rec User\source\repos\MyProjects\Secretariat_Soft_Sn\AnalogClock.NET6\bin\Debug\net6.0-windows\AnalogClock.deps.json
+C:\Users\Rec User\source\repos\MyProjects\Secretariat_Soft_Sn\AnalogClock.NET6\bin\Debug\net6.0-windows\AnalogClock.dll
+C:\Users\Rec User\source\repos\MyProjects\Secretariat_Soft_Sn\AnalogClock.NET6\bin\Debug\net6.0-windows\AnalogClock.pdb
+C:\Users\Rec User\source\repos\MyProjects\Secretariat_Soft_Sn\AnalogClock.NET6\obj\Debug\net6.0-windows\AnalogClock.csproj.AssemblyReference.cache
+C:\Users\Rec User\source\repos\MyProjects\Secretariat_Soft_Sn\AnalogClock.NET6\obj\Debug\net6.0-windows\AnalogClock.AnalogClock.resources
+C:\Users\Rec User\source\repos\MyProjects\Secretariat_Soft_Sn\AnalogClock.NET6\obj\Debug\net6.0-windows\AnalogClock.csproj.GenerateResource.cache
+C:\Users\Rec User\source\repos\MyProjects\Secretariat_Soft_Sn\AnalogClock.NET6\obj\Debug\net6.0-windows\AnalogClock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rec User\source\repos\MyProjects\Secretariat_Soft_Sn\AnalogClock.NET6\obj\Debug\net6.0-windows\AnalogClock.AssemblyInfoInputs.cache
+C:\Users\Rec User\source\repos\MyProjects\Secretariat_Soft_Sn\AnalogClock.NET6\obj\Debug\net6.0-windows\AnalogClock.AssemblyInfo.cs
+C:\Users\Rec User\source\repos\MyProjects\Secretariat_Soft_Sn\AnalogClock.NET6\obj\Debug\net6.0-windows\AnalogClock.csproj.CoreCompileInputs.cache
+C:\Users\Rec User\source\repos\MyProjects\Secretariat_Soft_Sn\AnalogClock.NET6\obj\Debug\net6.0-windows\AnalogClock.dll
+C:\Users\Rec User\source\repos\MyProjects\Secretariat_Soft_Sn\AnalogClock.NET6\obj\Debug\net6.0-windows\refint\AnalogClock.dll
+C:\Users\Rec User\source\repos\MyProjects\Secretariat_Soft_Sn\AnalogClock.NET6\obj\Debug\net6.0-windows\AnalogClock.pdb
+C:\Users\Rec User\source\repos\MyProjects\Secretariat_Soft_Sn\AnalogClock.NET6\obj\Debug\net6.0-windows\ref\AnalogClock.dll
+D:\Projects\Cs.Projects\Cs Projects\Secretariat_Soft_Sn\AnalogClock.NET6\bin\Debug\net6.0-windows\AnalogClock.deps.json
+D:\Projects\Cs.Projects\Cs Projects\Secretariat_Soft_Sn\AnalogClock.NET6\bin\Debug\net6.0-windows\AnalogClock.dll
+D:\Projects\Cs.Projects\Cs Projects\Secretariat_Soft_Sn\AnalogClock.NET6\bin\Debug\net6.0-windows\AnalogClock.pdb
+D:\Projects\Cs.Projects\Cs Projects\Secretariat_Soft_Sn\AnalogClock.NET6\obj\Debug\net6.0-windows\AnalogClock.csproj.AssemblyReference.cache
+D:\Projects\Cs.Projects\Cs Projects\Secretariat_Soft_Sn\AnalogClock.NET6\obj\Debug\net6.0-windows\AnalogClock.AnalogClock.resources
+D:\Projects\Cs.Projects\Cs Projects\Secretariat_Soft_Sn\AnalogClock.NET6\obj\Debug\net6.0-windows\AnalogClock.csproj.GenerateResource.cache
+D:\Projects\Cs.Projects\Cs Projects\Secretariat_Soft_Sn\AnalogClock.NET6\obj\Debug\net6.0-windows\AnalogClock.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Cs.Projects\Cs Projects\Secretariat_Soft_Sn\AnalogClock.NET6\obj\Debug\net6.0-windows\AnalogClock.AssemblyInfoInputs.cache
+D:\Projects\Cs.Projects\Cs Projects\Secretariat_Soft_Sn\AnalogClock.NET6\obj\Debug\net6.0-windows\AnalogClock.AssemblyInfo.cs
+D:\Projects\Cs.Projects\Cs Projects\Secretariat_Soft_Sn\AnalogClock.NET6\obj\Debug\net6.0-windows\AnalogClock.csproj.CoreCompileInputs.cache
+D:\Projects\Cs.Projects\Cs Projects\Secretariat_Soft_Sn\AnalogClock.NET6\obj\Debug\net6.0-windows\AnalogClock.dll
+D:\Projects\Cs.Projects\Cs Projects\Secretariat_Soft_Sn\AnalogClock.NET6\obj\Debug\net6.0-windows\refint\AnalogClock.dll
+D:\Projects\Cs.Projects\Cs Projects\Secretariat_Soft_Sn\AnalogClock.NET6\obj\Debug\net6.0-windows\AnalogClock.pdb
+D:\Projects\Cs.Projects\Cs Projects\Secretariat_Soft_Sn\AnalogClock.NET6\obj\Debug\net6.0-windows\ref\AnalogClock.dll
+C:\Csharp-winformSQL\Cs.NET.Core_Live_Project.06.22.2023\Cs Projects\Secretariat_Soft_Sn\AnalogClock.NET6\bin\Debug\net6.0-windows\AnalogClock.deps.json
+C:\Csharp-winformSQL\Cs.NET.Core_Live_Project.06.22.2023\Cs Projects\Secretariat_Soft_Sn\AnalogClock.NET6\bin\Debug\net6.0-windows\AnalogClock.dll
+C:\Csharp-winformSQL\Cs.NET.Core_Live_Project.06.22.2023\Cs Projects\Secretariat_Soft_Sn\AnalogClock.NET6\bin\Debug\net6.0-windows\AnalogClock.pdb
+C:\Csharp-winformSQL\Cs.NET.Core_Live_Project.06.22.2023\Cs Projects\Secretariat_Soft_Sn\AnalogClock.NET6\obj\Debug\net6.0-windows\AnalogClock.csproj.AssemblyReference.cache
+C:\Csharp-winformSQL\Cs.NET.Core_Live_Project.06.22.2023\Cs Projects\Secretariat_Soft_Sn\AnalogClock.NET6\obj\Debug\net6.0-windows\AnalogClock.AnalogClock.resources
+C:\Csharp-winformSQL\Cs.NET.Core_Live_Project.06.22.2023\Cs Projects\Secretariat_Soft_Sn\AnalogClock.NET6\obj\Debug\net6.0-windows\AnalogClock.csproj.GenerateResource.cache
+C:\Csharp-winformSQL\Cs.NET.Core_Live_Project.06.22.2023\Cs Projects\Secretariat_Soft_Sn\AnalogClock.NET6\obj\Debug\net6.0-windows\AnalogClock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp-winformSQL\Cs.NET.Core_Live_Project.06.22.2023\Cs Projects\Secretariat_Soft_Sn\AnalogClock.NET6\obj\Debug\net6.0-windows\AnalogClock.AssemblyInfoInputs.cache
+C:\Csharp-winformSQL\Cs.NET.Core_Live_Project.06.22.2023\Cs Projects\Secretariat_Soft_Sn\AnalogClock.NET6\obj\Debug\net6.0-windows\AnalogClock.AssemblyInfo.cs
+C:\Csharp-winformSQL\Cs.NET.Core_Live_Project.06.22.2023\Cs Projects\Secretariat_Soft_Sn\AnalogClock.NET6\obj\Debug\net6.0-windows\AnalogClock.csproj.CoreCompileInputs.cache
+C:\Csharp-winformSQL\Cs.NET.Core_Live_Project.06.22.2023\Cs Projects\Secretariat_Soft_Sn\AnalogClock.NET6\obj\Debug\net6.0-windows\AnalogClock.dll
+C:\Csharp-winformSQL\Cs.NET.Core_Live_Project.06.22.2023\Cs Projects\Secretariat_Soft_Sn\AnalogClock.NET6\obj\Debug\net6.0-windows\refint\AnalogClock.dll
+C:\Csharp-winformSQL\Cs.NET.Core_Live_Project.06.22.2023\Cs Projects\Secretariat_Soft_Sn\AnalogClock.NET6\obj\Debug\net6.0-windows\AnalogClock.pdb
+C:\Csharp-winformSQL\Cs.NET.Core_Live_Project.06.22.2023\Cs Projects\Secretariat_Soft_Sn\AnalogClock.NET6\obj\Debug\net6.0-windows\ref\AnalogClock.dll

@@ -1,0 +1,146 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "AnalogClock/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/AnalogClock.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AnalogClock.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "MyRep/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/MyRep.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyRep.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AnalogClock/1.0.0": {
+      "type": "project",
+      "path": "../AnalogClock.NET6/AnalogClock.csproj",
+      "msbuildProject": "../AnalogClock.NET6/AnalogClock.csproj"
+    },
+    "MyRep/1.0.0": {
+      "type": "project",
+      "path": "../MyRep/MyRep.csproj",
+      "msbuildProject": "../MyRep/MyRep.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "AnalogClock >= 1.0.0",
+      "MyRep >= 1.0.0",
+      "NETCore.Encrypt >= 2.1.0",
+      "System.Data.SqlClient >= 4.8.3"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ParkHyeJung\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "2022.6.7-Beta1",
+    "restore": {
+      "projectUniqueName": "C:\\Csharp-winformSQL\\Cs.NET.Core_Live_Project.06.22.2023\\Cs Projects\\Secretariat_Soft_Sn\\Secretariat_Soft\\Secretariat_Soft.csproj",
+      "projectName": "KSG_Soft",
+      "projectPath": "C:\\Csharp-winformSQL\\Cs.NET.Core_Live_Project.06.22.2023\\Cs Projects\\Secretariat_Soft_Sn\\Secretariat_Soft\\Secretariat_Soft.csproj",
+      "packagesPath": "C:\\Users\\ParkHyeJung\\.nuget\\packages\\",
+      "outputPath": "C:\\Csharp-winformSQL\\Cs.NET.Core_Live_Project.06.22.2023\\Cs Projects\\Secretariat_Soft_Sn\\Secretariat_Soft\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\ParkHyeJung\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {
+            "C:\\Csharp-winformSQL\\Cs.NET.Core_Live_Project.06.22.2023\\Cs Projects\\Secretariat_Soft_Sn\\AnalogClock.NET6\\AnalogClock.csproj": {
+              "projectPath": "C:\\Csharp-winformSQL\\Cs.NET.Core_Live_Project.06.22.2023\\Cs Projects\\Secretariat_Soft_Sn\\AnalogClock.NET6\\AnalogClock.csproj"
+            },
+            "C:\\Csharp-winformSQL\\Cs.NET.Core_Live_Project.06.22.2023\\Cs Projects\\Secretariat_Soft_Sn\\MyRep\\MyRep.csproj": {
+              "projectPath": "C:\\Csharp-winformSQL\\Cs.NET.Core_Live_Project.06.22.2023\\Cs Projects\\Secretariat_Soft_Sn\\MyRep\\MyRep.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "dependencies": {
+          "NETCore.Encrypt": {
+            "target": "Package",
+            "version": "[2.1.0, )"
+          },
+          "System.Data.SqlClient": {
+            "target": "Package",
+            "version": "[4.8.3, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "System.Data.SqlClient 패키지를 찾을 수 없습니다. 원본에 ID가 Microsoft Visual Studio Offline Packages인 패키지가 없습니다.",
+      "libraryId": "System.Data.SqlClient",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "NETCore.Encrypt 패키지를 찾을 수 없습니다. 원본에 ID가 Microsoft Visual Studio Offline Packages인 패키지가 없습니다.",
+      "libraryId": "NETCore.Encrypt",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}

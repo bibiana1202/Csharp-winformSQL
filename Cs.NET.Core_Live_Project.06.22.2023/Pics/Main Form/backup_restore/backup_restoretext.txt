@@ -1,0 +1,15 @@
+Consider the following while backing up:
+
+
+1. Be sure to see a message of success after the backup, if not there is a problem.
+2. No error should be displayed when backing up. An error means no backups
+3. Be sure to back up the data at different times
+4. In any coditions the responsibility for the loss of data is at your own risk
+
+
+Warning: Before changing Windows , copy the installation folder and keep it safe.
+
+
+===================Restore Text============================================
+Tip 1: If you burned backup file on a CD, copy it to the hard drive then restore."
+Tip 2: Don't put backup file on Windows drive, My Documents or Desktop to prevent the error.

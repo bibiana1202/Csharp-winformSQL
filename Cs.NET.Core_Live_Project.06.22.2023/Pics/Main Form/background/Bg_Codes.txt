@@ -1,0 +1,30 @@
+   Image image_loader_from_file(string image_file_name)
+        {
+            FileStream fs = new FileStream(image_file_name, FileMode.Open);
+            //---------------------------
+            Image img = Image.FromStream(fs);
+            //--- 
+            fs.Close();
+            fs.Dispose();
+            //-----
+            return img;
+        }
+
+         
+ public Image CropImage(Image SrcBmp, Point StartPoint, Size Crop_Size)
+        {
+            //=================================
+            //------------------
+            Bitmap DestBmp = new Bitmap(Crop_Size.Width, Crop_Size.Height, System.Drawing.Imaging.PixelFormat.Format32bppArgb);
+            //-----
+            Graphics g = Graphics.FromImage(DestBmp);
+            //-----------
+            Rectangle SrcRect = new Rectangle(StartPoint , Crop_Size);
+            //------------------
+            Rectangle DestRect = new Rectangle(new Point(0, 0), Crop_Size);
+            //------------------
+            g.DrawImage(SrcBmp, DestRect, SrcRect, GraphicsUnit.Pixel);
+            //-----------
+            //================================
+            return DestBmp;
+        }

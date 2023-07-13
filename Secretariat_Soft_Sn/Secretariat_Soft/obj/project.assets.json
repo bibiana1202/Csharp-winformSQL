@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ParkHyeJung\\source\\repos\\Secretariat_Soft_Sn\\Secretariat_Soft\\Secretariat_Soft.csproj",
+      "projectUniqueName": "C:\\Csharp-winformSQL\\Secretariat_Soft_Sn\\Secretariat_Soft\\Secretariat_Soft.csproj",
       "projectName": "Secretariat_Soft",
-      "projectPath": "C:\\Users\\ParkHyeJung\\source\\repos\\Secretariat_Soft_Sn\\Secretariat_Soft\\Secretariat_Soft.csproj",
+      "projectPath": "C:\\Csharp-winformSQL\\Secretariat_Soft_Sn\\Secretariat_Soft\\Secretariat_Soft.csproj",
       "packagesPath": "C:\\Users\\ParkHyeJung\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ParkHyeJung\\source\\repos\\Secretariat_Soft_Sn\\Secretariat_Soft\\obj\\",
+      "outputPath": "C:\\Csharp-winformSQL\\Secretariat_Soft_Sn\\Secretariat_Soft\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ParkHyeJung\\AppData\\Roaming\\NuGet\\NuGet.Config",
